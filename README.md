@@ -10,6 +10,8 @@ Requires iTerm2 >= Build 1.0.0.20110804
 4. Open ~/.bash_profile and add alias ssh=~/iterm2_ssh_color.sh
 5. Restart iTerm2 terminal or execute source ~/.bash_profile
 
-References
+References:
+
 https://gist.github.com/wadey/1140259
-https://github.com/samkeen/iterm-color-ssh/blob/master/ssh.color.sh
+
+https://github.com/samkeen/iterm-color-ssh
